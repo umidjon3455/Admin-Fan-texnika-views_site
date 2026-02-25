@@ -1,1 +1,1 @@
-Templates html,css saytning category htmli ishga tushurildi
+admin.py ichidagi Fan-texnika malumotlari view saytiga chiqarildi
